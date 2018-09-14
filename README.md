@@ -1,0 +1,2 @@
+# bigDataAnalysisPlatform
+信息化管理平台，名称暂定为bigDataAnalysisPlatform
